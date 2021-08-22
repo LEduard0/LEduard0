@@ -6,8 +6,6 @@ Hello my name's Luiz Eduardo, i'm Front-End Developer.
 
 🔨 Tools: Visual Studio Code, Figma, Git and GitHub.
 
-😄 Pronouns: He/Him
-
 📫 How to reach me: ⤵️
 
 [LinkedIn](https://www.linkedin.com/in/luizeduardovieiradequeiroz2911/)
@@ -24,4 +22,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
 -->
